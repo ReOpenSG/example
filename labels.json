@@ -1,0 +1,99 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "🎨 Html&css",
+    "color": "fef2c0",
+    "description": "마크업 & 스타일링"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "기능 구현·개선 사항 관련 내용"
+  },
+  {
+    "name": "📬 API",
+    "color": "d4c5f9",
+    "description": "서버 API 통신"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "c2e0c6",
+    "description": "배포 관련"
+  },
+
+  {
+    "name": "🐞 Bug",
+    "color": "d73a4a",
+    "description": "버그 발생 시"
+  },
+  {
+    "name": "🔧 fix",
+    "color": "d73a4a",
+    "description": "버그 수정 시"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "1d76db",
+    "description": "문서 작성 및 수정 (README.md 등)"
+  },
+  {
+    "name": "🙋‍♂️ Help",
+    "color": "9ed447",
+    "description": "도움이 필요할 시"
+  },
+  {
+    "name": "🥰 Accessibility",
+    "color": "facfcf",
+    "description": "웹접근성 관련"
+  },
+  {
+    "name": "➕ Add",
+    "color": "fbca04",
+    "description": "파일, 폴더, 코드 추가 시"
+  },
+  {
+    "name": "🗑️ Delete",
+    "color": "d4c5f9",
+    "description": "파일, 폴더, 코드 삭제 시"
+  },
+  {
+    "name": "✍️ Update",
+    "color": "c5def5",
+    "description": "파일, 폴더, 코드 수정 시"
+  },
+
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "test 관련(storybook, jest 등)"
+  },
+  {
+    "name": "D-0",
+    "color": "c63d2f",
+    "description": "코드 리뷰 요망 D-0 (작성자 직접 Merge 가능)"
+  },
+  {
+    "name": "D-1",
+    "color": "e25e3e",
+    "description": "코드 리뷰 요망 D-1"
+  },
+  {
+    "name": "D-2",
+    "color": "ff9b50",
+    "description": "코드 리뷰 요망 D-2"
+  },
+  {
+    "name": "D-3",
+    "color": "ffbb5c",
+    "description": "코드 리뷰 요망 D-3"
+  }
+]
