@@ -1,5 +1,12 @@
+import { RouterProvider } from "react-router-dom";
+import router from "./routes/routes";
+
 function App() {
-  return <div className="text-red-600 text-lg xs:text-xs">연습용</div>;
+  return (
+    <>
+      <RouterProvider router={router} />
+    </>
+  );
 }
 
 export default App;
